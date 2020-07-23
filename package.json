@@ -1,0 +1,19 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "Week 2 workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realbakari/myFirstGit.git"
+  },
+  "author": "Bakari Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realbakari/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/realbakari/myFirstGit#readme"
+}
