@@ -15,11 +15,7 @@ and then run:
 $ node index.js
 ```
 
-## run instructions
-
-```bash
-```
-## run instructions
+## Contents
 start from index.js
 
 | Week  | Content     |
@@ -30,8 +26,3 @@ start from index.js
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-git config --global user.name "Bakari Mustafa"
-git config --global user.email "contact@bakarimustafa.com"
-
-ssh-keygen -t rsa -C "contact@bakarimustafa.com"
