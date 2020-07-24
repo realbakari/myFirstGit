@@ -1,6 +1,6 @@
 // Workshop 2
 // Task 2
-console.log("Hello world");
+console.log("I caused a merge conflict.");
 
 // Task 4
 
