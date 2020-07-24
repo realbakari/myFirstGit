@@ -1,3 +1,4 @@
+// Workshop 2
 // Task 2
 console.log("Hello world");
 
